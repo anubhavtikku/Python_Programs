@@ -1,0 +1,11 @@
+Write a Python program to get the sum of all numbers in a list.
+Write a Python program to multiplies all the items in a list
+Write a Python program to get the largest number from a list.
+Write a Python program to count the number of strings where the string length is 2 or more and the first and last character are same from a given list of strings.
+Write a Python program to find the second smallest number in a list.
+Write a Python program to generate all sublists of a list.
+Write a Python program to find common items from two lists.
+Write a Python program to extend a list without append.
+Write a Python program to find the list in a list of lists whose sum of elements is the highest
+
+

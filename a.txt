@@ -1,0 +1,8 @@
+<customer>1</customer>
+<name>Dean Winchester</name>
+<course>Big Data and Hadoop</course>
+<city>London</city>
+<customer>2</customer>
+<name>Samuel Green</name>
+<course>Python for Big Data Analytics</course>
+<city>Paris</city>
